@@ -1,3 +1,3 @@
-# data_exploration
+# NYC Tree Census - Data Exploration
 
-An exploration and visualizations of the NYC tree census, using Python and Jupyter Notebook (inlcluding Pandas, Numpy, and Matplotlib libraries).
+An exploration and visualizations of the NYC Tree Census data, using Python and Jupyter Notebook (inlcluding Pandas, Numpy, and Matplotlib libraries).
